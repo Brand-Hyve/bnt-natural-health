@@ -5,11 +5,11 @@
     { "source": "/home--bt-natural-health--wellness-association", "destination": "/", "permanent": false }
   ],
   "rewrites": [
-    { "source": "/about-us", "destination": "/about.html" },
-    { "source": "/services--bt-natural-health--wellness-association", "destination": "/services.html" },
-    { "source": "/what-is-nrt", "destination": "/nrt.html" },
-    { "source": "/Nutritional-Health-Coaching", "destination": "/coaching.html" },
-    { "source": "/Whole-Food-Supplementation", "destination": "/supplements.html" },
-    { "source": "/NMT", "destination": "/nmt.html" }
+    { "source": "/about-us", "destination": "/about" },
+    { "source": "/services--bt-natural-health--wellness-association", "destination": "/services" },
+    { "source": "/what-is-nrt", "destination": "/nrt" },
+    { "source": "/Nutritional-Health-Coaching", "destination": "/coaching" },
+    { "source": "/Whole-Food-Supplementation", "destination": "/supplements" },
+    { "source": "/NMT", "destination": "/nmt" }
   ]
 }
